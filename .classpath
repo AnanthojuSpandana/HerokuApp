@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Selenium jars/lib/auto-service-annotations-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Selenium jars/lib/byte-buddy-1.14.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Selenium jars/lib/checker-qual-3.33.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Selenium jars/lib/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Selenium jars/lib/error_prone_annotations-2.18.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Selenium jars/lib/failsafe-3.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Selenium jars/lib/failureaccess-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Selenium jars/lib/guava-32.1.2-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Selenium jars/lib/j2objc-annotations-2.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Selenium jars/lib/jsr305-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Selenium jars/lib/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Selenium jars/lib/opentelemetry-api-1.28.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Selenium jars/lib/opentelemetry-api-events-1.28.0-alpha.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Selenium jars/lib/opentelemetry-context-1.28.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Selenium jars/lib/opentelemetry-exporter-logging-1.28.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Selenium jars/lib/opentelemetry-extension-incubator-1.28.0-alpha.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Selenium jars/lib/opentelemetry-sdk-1.28.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Selenium jars/lib/opentelemetry-sdk-common-1.28.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Selenium jars/lib/opentelemetry-sdk-extension-autoconfigure-1.28.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Selenium jars/lib/opentelemetry-sdk-extension-autoconfigure-spi-1.28.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Selenium jars/lib/opentelemetry-sdk-logs-1.28.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Selenium jars/lib/opentelemetry-sdk-metrics-1.28.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Selenium jars/lib/opentelemetry-sdk-trace-1.28.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Selenium jars/lib/opentelemetry-semconv-1.28.0-alpha.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Selenium jars/selenium-api-4.16.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Selenium jars/selenium-api-4.16.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Selenium jars/selenium-chrome-driver-4.16.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Selenium jars/selenium-chrome-driver-4.16.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Selenium jars/selenium-chromium-driver-4.16.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Selenium jars/selenium-chromium-driver-4.16.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Selenium jars/selenium-devtools-v85-4.16.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Selenium jars/selenium-devtools-v85-4.16.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Selenium jars/selenium-devtools-v118-4.16.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Selenium jars/selenium-devtools-v118-4.16.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Selenium jars/selenium-devtools-v119-4.16.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Selenium jars/selenium-devtools-v119-4.16.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Selenium jars/selenium-devtools-v120-4.16.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Selenium jars/selenium-devtools-v120-4.16.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Selenium jars/selenium-edge-driver-4.16.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Selenium jars/selenium-edge-driver-4.16.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Selenium jars/selenium-firefox-driver-4.16.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Selenium jars/selenium-firefox-driver-4.16.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Selenium jars/selenium-http-4.16.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Selenium jars/selenium-http-4.16.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Selenium jars/selenium-ie-driver-4.16.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Selenium jars/selenium-ie-driver-4.16.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Selenium jars/selenium-java-4.16.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Selenium jars/selenium-java-4.16.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Selenium jars/selenium-json-4.16.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Selenium jars/selenium-json-4.16.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Selenium jars/selenium-manager-4.16.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Selenium jars/selenium-manager-4.16.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Selenium jars/selenium-os-4.16.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Selenium jars/selenium-os-4.16.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Selenium jars/selenium-remote-driver-4.16.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Selenium jars/selenium-remote-driver-4.16.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Selenium jars/selenium-safari-driver-4.16.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Selenium jars/selenium-safari-driver-4.16.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Selenium jars/selenium-support-4.16.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Selenium jars/selenium-support-4.16.1-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
